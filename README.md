@@ -13,3 +13,12 @@ After Creating Database,
 9th Step: Open a browser and go to URL “http://localhost/Hotel/”
 
 Note: For admin panel, go to URL ” http://localhost/ Hotel/admin/index.php”
+
+
+
+https://github.com/ibrahimBougaoua/restaurant
+1 -> install library node js by typing [ npm install ]
+
+2 -> create database with mongodb by typing [ use restaurant ]
+
+3 -> Fake Data to using application by typing [ node ./seeder/seeder.js ]
